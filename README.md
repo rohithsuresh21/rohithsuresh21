@@ -34,18 +34,12 @@
 
 ## ⚡ What I Actually Build
 
-</div>
-
-```
-RAG Pipelines          ████████████████████  Full Stack
-LLMs from Scratch      ███████████████░░░░░  GPT-2 Architecture
-Vector Databases       ████████████████████  Qdrant + Embeddings
-FastAPI Backend        ████████████████████  Production Ready
-Deep Learning          ██████████████░░░░░░  PyTorch + Fine-tuning
-GenAI Applications     ████████████████████  Shipped & Working
-```
-
----
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-Full_Stack-7B7FF5?style=for-the-badge)
+![LLMs from Scratch](https://img.shields.io/badge/LLMs_from_Scratch-GPT--2_Architecture-2ECC87?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-Qdrant_%2B_Embeddings-F5A623?style=for-the-badge)
+![FastAPI Backend](https://img.shields.io/badge/FastAPI_Backend-Production_Ready-7B7FF5?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-PyTorch_%2B_Fine--tuning-2ECC87?style=for-the-badge)
+![GenAI Applications](https://img.shields.io/badge/GenAI_Applications-Shipped_%26_Working-F5A623?style=for-the-badge)
 
 ## 🧠 Tech Stack
 
